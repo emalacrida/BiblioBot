@@ -1,1 +1,1 @@
-La cartella contiene il codice sviluppato per ill progetto.
+La cartella contiene il codice sviluppato per il progetto.
